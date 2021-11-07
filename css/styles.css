@@ -102,7 +102,6 @@ body {
   text-align: center;
 }
 .main-btn {
-  font-family: inherit;
   color: var(--second-text-btn-color);
   background-color: var(--primary-btn-color);
   font-weight: 700;
@@ -173,6 +172,7 @@ body {
 
 /*--------------PORTFOLIO----------*/
 .filters-btn {
+  font-family: inherit;
   font-weight: 500;
   font-size: 16px;
   line-height: 1.62;
